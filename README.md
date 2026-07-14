@@ -180,6 +180,3 @@ Answer + source citations returned
 
 ---
 
-## 📄 License
-
-MIT License
