@@ -1,12 +1,12 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="RAG Assistant",
+    page_title="OmniRAG Assistant",
     page_icon="🤖",
     layout="wide"
 )
 
-st.title("🤖 Multimodal RAG Assistant")
+st.title("🤖 OmniRAG - Multimodal RAG Assistant")
 st.write("Upload your documents and chat with them using AI.")
 
 st.markdown("---")
