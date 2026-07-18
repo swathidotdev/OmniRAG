@@ -79,8 +79,8 @@ multimodal-rag-assistant/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/multimodal-rag-assistant.git
-cd multimodal-rag-assistant
+git clone https://github.com/swathidotdev/OmniRAG.git
+cd OmniRAG
 ```
 
 ### 2. Create virtual environment
@@ -98,10 +98,10 @@ pip install -r requirements.txt
 
 ### 4. Set up environment variables
 ```bash
-cp .env.example .env
+copy .env.example .env
 ```
 
-Edit `.env` and add your values:
+Edit `.env` and add your values(Update the gemini model if it depricates):
 ```env
 GEMINI_API_KEY=your-gemini-api-key
 GEMINI_MODEL=gemini-2.0-flash
