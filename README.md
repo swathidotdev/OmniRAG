@@ -1,4 +1,4 @@
-# 🤖 Multimodal RAG-Based AI Knowledge Assistant
+# 🤖 OmniRAG - Multimodal RAG-Based AI Knowledge Assistant
 
 A production-grade Retrieval-Augmented Generation (RAG) system that allows users to upload documents, audio/video files, YouTube URLs, and web pages — then query them using natural language with cited answers.
 
